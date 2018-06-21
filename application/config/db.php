@@ -2,7 +2,7 @@
 
 return [
 	'host' => 'localhost',
-	'name' => 'blog',
+	'name' => 'framework-blog',
 	'user' => 'root',
 	'password' => '',
 ];
